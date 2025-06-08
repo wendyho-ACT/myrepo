@@ -10,7 +10,7 @@
 
 #~~ Set your working directory
 
-setwd("C:/Users/Susan Johnston/Desktop/Teaching/R Graphics Course/")
+#setwd("C:/Users/Susan Johnston/Desktop/Teaching/R Graphics Course/")
 
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
